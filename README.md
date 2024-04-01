@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1284202542/vector/programming-language-python-conceptual-banner-education-coding-computer-language-python.jpg?s=612x612&w=0&k=20&c=DwTB320vMYH8MAnPjrwEeJqlWs1V4y10ExC0xcMmHig=)
+![MasterHead](https://github.com/prateek2510/prateek2510/blob/main/PRATEEK%20SHARMA%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Prateek Sharma</h1>
 <h3 align="center">A passionate backend developer from India</h3>
